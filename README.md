@@ -1,10 +1,8 @@
 # Hi there, I'm Robin 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=ainmutaqorrobin&style=flat-square)
-
 ### 🚀 About Me
 
-Passionate and dedicated software engineering graduate with hands-on experience in JavaScript front-end frameworks including React and Angular, and back-end development using Express and MongoDB. Proficient in building full-stack applications, with notable projects such as a React to-do goal list utilizing TypeScript and an Angular project integrated with Firebase. Currently expanding backend skills with Express and MongoDB, while also learning Next.js to enhance server-side rendering and static site generation capabilities. Regular user of GitHub for daily version control, ensuring efficient project collaboration and code management. Eager to contribute to a dynamic team where I can leverage my JavaScript expertise to develop innovative and efficient web solutions.
+Passionate and dedicated software engineering graduate with hands-on experience in JavaScript front-end frameworks including React and Angular, and back-end development using Express and MongoDB. Proficient in building full-stack applications, with notable projects such as a React to-do goal list utilizing TypeScript and an Angular project integrated with Firebase. Currently expanding my backend skills with PostgreSQL and NestJS to enhance my development capabilities. Additionally, I’m diving into Next.js to improve server-side rendering and static site generation. A regular user of GitHub for daily version control, I ensure efficient project collaboration and code management.
 
 ---
 
