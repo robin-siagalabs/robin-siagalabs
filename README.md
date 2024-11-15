@@ -4,6 +4,8 @@
 
 Passionate and dedicated software engineering graduate with hands-on experience in JavaScript front-end frameworks including React and Angular, and back-end development using Express and MongoDB. Proficient in building full-stack applications, with notable projects such as a React to-do goal list utilizing TypeScript and an Angular project integrated with Firebase. Currently expanding my backend skills with PostgreSQL and NestJS to enhance my development capabilities. Additionally, I’m diving into Next.js to improve server-side rendering and static site generation. A regular user of GitHub for daily version control, I ensure efficient project collaboration and code management.
 
+👉 Personal Account: [ainmutaqorrobin](https://github.com/ainmutaqorrobin)    
+
 ---
 
 ## 🔧 Technologies & Tools
