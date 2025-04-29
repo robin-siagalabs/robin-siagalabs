@@ -30,14 +30,3 @@ Passionate and dedicated software engineering graduate with hands-on experience 
 
 ### **Development Tools**
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)  
-
----
-
-## 📈 GitHub Stats
-
-![Robin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ainmutaqorrobin&show_icons=true&hide_border=true&theme=radical)
-![Robin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ainmutaqorrobin&hide_border=true&theme=radical&langs_count=8&layout=compact)
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ainmutaqorrobin&theme=github-compact&radius=16" height="auto" alt="by fatkhurhhn"/>
-
----
